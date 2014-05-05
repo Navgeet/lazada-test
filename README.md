@@ -1,10 +1,10 @@
 # lazada-test
 
-A Clojure library designed to ... well, that part is up to you.
+Scrapes www.lazada.com.ph and returns the category tree and top 5 products on every category page.
 
 ## Usage
 
-FIXME
+Run `lein run`, brew a coffee and browse to http://localhost:3000
 
 ## License
 
